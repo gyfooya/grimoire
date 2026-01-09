@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Keyboard Setup
+Exec=kcmshell6 kcm_keyboard --args --once
+X-KDE-Autostart-enabled=true
+OnlyShowIn=KDE;
