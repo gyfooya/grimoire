@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Password of the day - Synology
+
 # Get current month and day
 month=$(date +%m) # Month (01 to 12)
 day=$(date +%d)   # Day (01 to 31)
