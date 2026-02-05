@@ -6,7 +6,6 @@
 # Usage: ./ytmp3.sh VIDEO_URL
 #
 # pacman -Syu yt-dlp nodejs npm
-#
 
 URL="$1"
 
@@ -19,7 +18,6 @@ yt-dlp \
 --format "bestaudio/best[ext!=webm]/best" \
 --merge-output-format mp3 \
 "$URL"
-
 
 #Downloads the best audio if available.
 #Falls back to the lowest combined video+audio if audio-only fails.
