@@ -2,6 +2,7 @@
 
 # GYFOOYA January 2026
 # version : 1.0
+# mkarchiso-buildbot
 
 # sudo pacman -Syu archiso
 # baseline and releng profile location : 
