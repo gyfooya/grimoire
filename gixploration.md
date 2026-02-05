@@ -1,6 +1,8 @@
 # GiXploration
 # Gyfooya January 2026
 
+# How to find github email in repository
+
 # Inside a repository
 ```
 git log --all --format="%ae" | sort | uniq
