@@ -1,0 +1,3 @@
+# Archlinux Mirror Selection
+sudo pacman -Syu reflector
+sudo reflector --country France,Germany --age 1 --protocol https --sort rate --fastest 10 --save /etc/pacman.d/mirrorlist
