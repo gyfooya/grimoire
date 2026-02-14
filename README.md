@@ -1,4 +1,4 @@
-# grimmoire
+# grimoire
 
 A personal collection of Linux commands, tools, tricks, and discoveries.
 
