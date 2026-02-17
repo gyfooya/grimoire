@@ -1,0 +1,6 @@
+USB-KEY 
+Partition type : NTFS/exFAT/HPFS
+
+cfdisk -> partition type :  id : 7
+label : dos
+
