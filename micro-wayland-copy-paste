@@ -1,0 +1,2 @@
+mkdir -p ~/.config/micro
+echo '{"clipboard":"terminal"}' > ~/.config/micro/settings.json
